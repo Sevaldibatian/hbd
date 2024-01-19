@@ -37,7 +37,7 @@ body {
   width: 140px;
   height: auto;
   top: 2%;
-  left: 15%; /* Sesuaikan dengan nilai yang diinginkan */
+  left: 15%;
   position: absolute;
   z-index: 4;
 }
